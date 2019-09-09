@@ -1,0 +1,11 @@
+{
+  "name": "node-buffer-and-arraybuffer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:didyhu/node-buffer-and-array-buffer.git",
+  "author": "Hu Xiaodi <didyhu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test"
+  }
+}
